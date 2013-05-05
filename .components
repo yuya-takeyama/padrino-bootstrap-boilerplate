@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: rspec
+:mock: rr
+:script: jquery
+:renderer: haml
+:stylesheet: less
+:namespace: PadrinoBootstrapBoilerplate
+:migration_format: number
